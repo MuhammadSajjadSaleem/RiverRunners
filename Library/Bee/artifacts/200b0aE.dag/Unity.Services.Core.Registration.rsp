@@ -341,6 +341,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Services.Core.Threading.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.services.core@1.12.5/Runtime/Registration/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.services.core@1.12.5/Runtime/Registration/CorePackageInitializer.cs"
 -langversion:9.0

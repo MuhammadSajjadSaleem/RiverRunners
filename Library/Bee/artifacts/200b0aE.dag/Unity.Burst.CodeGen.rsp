@@ -328,6 +328,7 @@
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.burst@1.8.18/Unity.Burst.CodeGen/Unity.Burst.Cecil.Rocks.dll"
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Burst.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.burst@1.8.18/Unity.Burst.CodeGen/AssemblyResolver.cs"
 "Library/PackageCache/com.unity.burst@1.8.18/Unity.Burst.CodeGen/BurstILPostProcessor.cs"
 "Library/PackageCache/com.unity.burst@1.8.18/Unity.Burst.CodeGen/CecilExtensions.cs"

@@ -327,6 +327,7 @@
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.Pdb.dll"
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.Rocks.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/Analytics/AnalyticsReporter.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/Analytics/AnalyticsTestCallback.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/Analytics/RunFinishedData.cs"

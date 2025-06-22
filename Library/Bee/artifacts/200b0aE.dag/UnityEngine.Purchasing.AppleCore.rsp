@@ -333,6 +333,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Purchasing.Common.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/AppleCore/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/AppleCore/INativeAppleStore.cs"
 -langversion:9.0

@@ -323,6 +323,7 @@
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.burst@1.8.18/Unity.Burst.Unsafe.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.burst@1.8.18/Runtime/BurstCompileAttribute.cs"
 "Library/PackageCache/com.unity.burst@1.8.18/Runtime/BurstCompiler.cs"
 "Library/PackageCache/com.unity.burst@1.8.18/Runtime/BurstCompilerOptions.cs"

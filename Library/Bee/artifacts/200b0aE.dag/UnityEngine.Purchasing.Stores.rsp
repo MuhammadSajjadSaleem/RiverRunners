@@ -333,6 +333,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.WinRTCore.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.Purchasing.WinRTStub.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Stores/Android/AmazonAppStore/AmazonApps.cs"
 "Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Stores/Android/AmazonAppStore/AmazonAppStoreStoreExtensions.cs"
 "Library/PackageCache/com.unity.purchasing@4.9.3/Runtime/Stores/Android/AmazonAppStore/FakeAmazon.cs"

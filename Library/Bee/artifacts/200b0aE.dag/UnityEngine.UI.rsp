@@ -335,6 +335,7 @@
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.collections@1.4.0/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.nuget.mono-cecil@1.11.4/Mono.Cecil.dll"
 -r:"/Users/muhammadsajjad/Documents/Master/Python/River Runners/River Runners/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
+-analyzer:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/AxisEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/BaseEventData.cs"
 "Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventData/PointerEventData.cs"
